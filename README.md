@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MartiCorder
 - 👀 I’m interested in soccer
+- I'm working as a SAP Business One programmer
 
 <!---
 MartiCorder/MartiCorder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
